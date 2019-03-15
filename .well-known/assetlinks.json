@@ -10,5 +10,17 @@
                 "74:47:2E:36:CB:79:F7:C6:9C:B4:66:AD:44:62:1B:CC:F2:46:B6:77:B0:0E:93:DB:47:FD:D1:D4:F0:3F:7D:85"
             ]
         }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.webviewapp",
+            "sha256_cert_fingerprints": [
+                "74:AA:24:BB:C9:84:7C:67:91:7E:56:18:58:31:43:4F:89:2B:8F:D3:5D:99:66:A9:82:C6:ED:2B:D0:79:FD:AF"
+            ]
+        }
     }
 ]
